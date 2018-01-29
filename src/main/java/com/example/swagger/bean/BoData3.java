@@ -2,7 +2,6 @@
 package com.example.swagger.bean;
 
 
-import com.sun.tools.javac.util.List;
 import io.swagger.annotations.ApiModelProperty;
 
 import java.io.Serializable;
